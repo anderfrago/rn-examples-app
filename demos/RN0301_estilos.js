@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default LotsOfStyles = () => {
+export const RN0301_estilos = () => {
     return (
       <View style={styles.container}>
         <Text style={styles.red}>just red</Text>
