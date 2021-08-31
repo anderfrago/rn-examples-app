@@ -213,16 +213,18 @@ export function Sidebar() {
                     component={RN0597_Modal}
                     options={{ title: 'RN0597_Modal' }}
                 />
-                <Drawer.Screen
+                {/* <Drawer.Screen
                     name="RN0598_pixelratio"
                     component={RN0598_pixelratio}
                     options={{ title: 'RN0598_pixelratio' }}
-                />
+                /> */}
+                {/*
+                // No se puede dibujar una navegación dentro de otra.
                 <Drawer.Screen
                     name="RN0700_navigation"
                     component={RN0700_navigation}
                     options={{ title: 'RN0700_navigation' }}
-                />
+                /> 
                 <Drawer.Screen
                     name="RN0701_navparams"
                     component={RN0701_navparams}
@@ -233,7 +235,7 @@ export function Sidebar() {
                     component={RN0702_navsidemenu}
                     options={{ title: 'RN0702_navsidemenu' }}
                 />
-
+                */}
 
             </Drawer.Navigator>
         </NavigationContainer>

@@ -1,11 +1,8 @@
-Desarrollo de Interfaces
-===
+# Desarrollo de Interfaces
 
-## ReactNative - Evaluación 2
+## ReactNative
+
+_Ander F. L. para Cuatrovientos ITC_
 
 Ejemplos del documento de teoría.
-
-_Menu lateral para visualizar el resto de ejemplos_
-
-    Cuatrovientos ITC
-    Frago, A.
+Menu lateral para visualizar el resto de ejemplos

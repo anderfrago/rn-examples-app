@@ -43,10 +43,10 @@ const styles = StyleSheet.create({
   scrollContainer: {
     flex: 1,
     marginTop: "2em",
-    justifyContent: "center",
+    // justifyContent: "center",
   },
   container: {
-    justifyContent: "center",
+    // justifyContent: "center",
     alignItems: "center"
   },
   value: {
