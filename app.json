@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "rn02-basic-examples",
-    "slug": "rn02-basic-examples",
+    "name": "rn-examples-app",
+    "slug": "rn-examples-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
