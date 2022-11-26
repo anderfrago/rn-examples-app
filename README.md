@@ -10,7 +10,6 @@ React Native es un marco de software de interfaz de usuario de código abierto c
 
 Ejemplos del documento de teoría.
 
-- Accesible desde [aquí](https://drive.google.com/open?id=1mzl22Nnov1Z2C40fTq9Qr42K9PUa9oo4&authuser=ander_frago%40cuatrovientos.org&usp=drive_fs)
 - Menu lateral para visualizar los ejemplos.
 
 > _Ander F. L. para Cuatrovientos ITC_
